@@ -1,5 +1,5 @@
 name: Totally fake our code never has bugs
-description: File a bug report.
+description: It is impossible that you have anything to report!
 title: "[Bug]: "
 labels: ["🚦 status: awaiting triage", "naomi"]
 assignees:
