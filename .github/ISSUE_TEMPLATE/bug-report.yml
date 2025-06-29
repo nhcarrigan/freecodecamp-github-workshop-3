@@ -4,7 +4,6 @@ title: "[Bug]: "
 labels: ["🚦 status: awaiting triage", "naomi"]
 assignees:
   - naomi-lgbt
-  - nhcarrigan
 body:
   - type: markdown
     attributes:
