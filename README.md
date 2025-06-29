@@ -1,2 +1,2 @@
-# freecodecamp-github-workshop-3
+# freeCodeCamp GitHub Workshop 3
 Example repository for the third freeCodeCamp GitHub workshop.
